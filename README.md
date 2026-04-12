@@ -22,7 +22,7 @@
 
 ## 📌 Projects (Coming Soon)
 - 🎯 Number Guessing Game  
-- 📝 To-Do CLI App  
+- 📝 To-Do CLI App   
 - 🎮 2D Platformer Game  
 
 

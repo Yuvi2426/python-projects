@@ -1,0 +1,39 @@
+for loops working 
+1. used for showing repetition
+here is an example
+for number in range(3):
+for is the function
+range(3) means how many times will it repeat.
+
+for → start a loop (repeat something)
+number → a variable that stores the current number
+in → take values from
+range(3) → generates 0, 1, 2
+
+
+
+
+for number in range(1 , 10 , 2):
+ print("attempt" , number , number * ".")
+
+
+"." MEANS MULTIPLY IT WITH NUMBER FOR SAME NO OF DOTS
+2 MEANS SKIP EVERY 2ND NO
+
+
+
+
+
+FOR ELSE
+
+successful = False
+for number in range(3):
+ print("attempt")
+ if successful:
+ print("you cracked the code")
+ break
+else:
+ print("all 3 attempts failed")
+
+here we check for true or false and change everything based on it here if and else both come below for 
+

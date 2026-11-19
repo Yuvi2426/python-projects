@@ -1,33 +1,17 @@
-# 👋 Hey, I'm Yuvraj
+# Python Projects & Automation Utilities
 
-🎓 Class 12 Student (PCM + AI)  
-💻 Aspiring Developer | Learning Python, DSA & AI  
-🎮 Building projects like 2D games and CLI apps  
+## Purpose
+This repository documents my foundational Python coursework, structured problem-solving exercises, and small CLI automation scripts built during my first semester of B.Tech Computer Science and Engineering at Lovely Professional University.
 
----
+## Tools & Technologies
+- **Language:** Python 3
+- **Standard Libraries:** `subprocess`, `datetime`
+- **Version Control:** Git & GitHub
 
-## 🚀 Current Focus
-- Python fundamentals & problem solving  
-- Data Structures & Algorithms (DSA)  
-- AI basics & real-world projects  
+## Structure & Implementation
+- `basics/` — Core Python syntax, loop mechanics, functions, and data-structure drills.
+- `projects/` — Standalone Python CLI exercises and mini-projects.
+- `auto_upload.py` — A Python CLI helper using `subprocess` and `datetime` to automate timestamped `git add`, `git commit`, and `git push` workflows.
 
----
-
-## 🛠️ Tech Stack
-- Python (Beginner → Intermediate)
-- Git & GitHub  
-- Basic problem solving  
-
----
-
-## 📌 Projects (Coming Soon)
-- 🎯 Number Guessing Game  
-- 📝 To-Do CLI App   
-- 🎮 2D Platformer Game  
-
-
----
-
-## ⚡ Goal
-To become a skilled developer by building real-world projects and staying consistent.
-****
+## Outcome
+Built clean coding discipline, CLI workflow familiarity, and version-control habits that serve as my foundation before transitioning into C/C++ and Linux systems programming.
